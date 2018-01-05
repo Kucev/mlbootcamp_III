@@ -1,3 +1,3 @@
-# mlbootcamp_III
-Задача ["Выход из он-лайн игры"](http://mlbootcamp.ru/round/10/sandbox/)  
-13 [место](http://mlbootcamp.ru/round/10/rating/?results_filter=final) из 614 
+# sascompetitions
+Задача ["Прогнозирование вероятности невозврата кредита"](https://sascompetitions.ru/competitions/forecasting-the-probability-of-non-repayment-of-loan)  
+16 место из 418
